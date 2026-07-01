@@ -1,4 +1,4 @@
-# VSTF-Net: A Vision-Semantic and Target-Aware Fusion Framework for Ship Detection in Complex Water Scenarios
+# VSTF-Net: A Vision-Semantic and Target-aware Fusion Framework for Ship Detection in Complex Maritime Sensing Scenarios
 Official code for the paper.
 Environment
 Python 3.12, CUDA 12.8
